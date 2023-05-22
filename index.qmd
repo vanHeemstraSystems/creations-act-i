@@ -23,6 +23,7 @@ In response to emerging drivers for change, organizations gradually navigate the
 ---
 1.	PREPARE:
 ---
+
 Higher Priority (Prepare)
 
 •	Get clarity about your digital ambition: How is your business strategy changing to support digital transformation goals (see “Propose a Digital Ambition Workshop to Jump-Start Your Digital Journey”)? This will help prioritize activity to deliver the future of applications. Your efforts will vary significantly, depending on whether the strategic focus is continued optimization of existing products and services or business model transformation (or a combination of both).
