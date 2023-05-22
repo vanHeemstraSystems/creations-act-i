@@ -19,3 +19,18 @@ In response to emerging drivers for change, organizations gradually navigate the
 •	Once prepared, organizations are ready for the next priority, namely to **build** new solutions and organizational practices (this is the challenge awaiting most organizations in 2020).
 
 •	Once successful with early transformative changes, an organization needs to **scale** its innovation, investment and business in order the maximize the benefits of digital business transformation.
+
+---
+1.	PREPARE:
+---
+Higher Priority (Prepare)
+
+•	Get clarity about your digital ambition: How is your business strategy changing to support digital transformation goals (see “Propose a Digital Ambition Workshop to Jump-Start Your Digital Journey”)? This will help prioritize activity to deliver the future of applications. Your efforts will vary significantly, depending on whether the strategic focus is continued optimization of existing products and services or business model transformation (or a combination of both).
+
+•	Understand how vendor roadmaps align with your priorities: Understand how their roadmaps help or hinder your emerging roadmap. How could the mix of vendors change, based on which are more aligned with your digital ambitions? Start identifying and planning for changes in how software is purchased, delivered and consumed to avoid erecting barriers to achieving your desired outcomes.
+
+•	Identify gaps in business and technical skills: Strive to understand the current IT team’s capabilities, skills and knowledge (both technical and business) and where there are gaps, in relation to the emerging roadmap. Identify different approaches to upskilling current staff (use of job rotation, multidisciplinary teams and mentoring, for example) and start redefining job descriptions to ensure you hire for future needs, not past needs. You will likely have to use third-party service providers to augment your capabilities, which can also be an opportunity for training.
+
+•	Assess the current technology base: Can you access technology for integration, low-code development, product-style DevOps, API management, event processing, security and governance to support the gradual transition of applications from monolithic suites to collections of building blocks in the form of PBCs? Develop a technology inventory in preparation for “filling in the blanks” where technology is lacking and to avoid duplicating technology investment where it is not necessary.
+
+•	Audit your current approach to delivering new business capabilities: Check the mix of approaches (including waterfall, iterative and agile), the time horizons for delivery, and the success rates. Your digital ambition will almost certainly require a major shift toward agile delivery to match the desired pace of business change. Look for deficiencies in current delivery capabilities to identify targets for improvement. Use Gartner’s IT Score maturity assessment to identify a benchmark and get recommendations for where and how to improve (see “IT Score for Enterprise Architecture & Technology Innovation”). Many organizations are adopting product management disciplines to create the right mix of speed, quality, focus on outcomes and life cycle management.
