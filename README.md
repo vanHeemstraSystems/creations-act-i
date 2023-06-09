@@ -9,4 +9,6 @@ Can be read as "Creations - Act I" at https://app.gitbook.com/o/NOqeW3nD9tJaUGh3
 
 Can be browsed as "Creations - Act I" at https://vanheemstrasystems.github.io/creations-act-i/
 
+Project "Creations - Act I" at https://github.com/orgs/vanHeemstraSystems/projects/13
+
 Documentation of this repository is automatically done with Quarto using GitHub Actions as described at https://github.com/vanHeemstraSystems/quarto-to-github-pages/blob/main/300/300/README.md
